@@ -11,8 +11,12 @@ Clone this repository onto your hard drive.
 
 ![CloneProject](https://user-images.githubusercontent.com/49766065/60826971-f07bf300-a163-11e9-8c01-1fbdd3896250.PNG)
 
-Open it using the Unreal Engine editor by browsing your files for where you installed the clone to. The file to open is
-ThirdPersonTest.uproject
+Open it using the Unreal Engine editor by browsing your files for where you installed the clone to. To Browse your files, click the browse
+button in the editor
+
+![BrowseFiles](https://user-images.githubusercontent.com/49766065/60830823-f0ccbc00-a16c-11e9-9c44-24fbf5c6ceed.PNG)
+
+The file to open is ThirdPersonTest.uproject
 
 ![OpenUproject](https://user-images.githubusercontent.com/49766065/60826655-31bfd300-a163-11e9-87c6-c5344bd9fc07.PNG)
 

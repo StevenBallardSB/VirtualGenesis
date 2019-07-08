@@ -23,7 +23,7 @@ This project requires Unreal Engine 4 (Unreal Engine 4.22 recommended)
 
 ![OpenProject](https://user-images.githubusercontent.com/49766065/60828110-7436df00-a166-11e9-94e6-a5c7831ad89e.PNG)
 
-### With the project now open, go into the root folder, named the content folder and double click on the file named GardenOfEden
+### With the project now open, Look at the Content Browser window and click the Contents folder. Double click on the file named GardenOfEden
 
 ![OpenGarden](https://user-images.githubusercontent.com/49766065/60828366-11921300-a167-11e9-891e-a857960abb08.PNG)
 

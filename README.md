@@ -9,19 +9,19 @@ This project requires Unreal Engine 4 (Unreal Engine 4.22 recommended)
 ## How to get started
 ### Clone this repository onto your hard drive.
 
-![CloneProject](https://user-images.githubusercontent.com/49766065/60826971-f07bf300-a163-11e9-8c01-1fbdd3896250.PNG)
+![VIrtualGenesisClone](https://user-images.githubusercontent.com/49766065/61009392-5f557980-a327-11e9-8c1d-02c3d6f39102.PNG)
 
 ### Open it using the Unreal Engine editor by browsing your files for where you installed the clone to. To Browse your files, click the browse button in the editor
 
-![BrowseFiles](https://user-images.githubusercontent.com/49766065/60830823-f0ccbc00-a16c-11e9-9c44-24fbf5c6ceed.PNG)
+![BrowseUproject](https://user-images.githubusercontent.com/49766065/61009764-aabc5780-a328-11e9-9f0a-b755172b722f.PNG)
 
 ### The file to open is ThirdPersonTest.uproject
 
-![OpenUproject](https://user-images.githubusercontent.com/49766065/60826655-31bfd300-a163-11e9-87c6-c5344bd9fc07.PNG)
+![ThirspersonUproj](https://user-images.githubusercontent.com/49766065/61009614-18b44f00-a328-11e9-9437-630c2ee1d889.PNG)
 
 ### Once you have it selected, click open.
 
-![OpenProject](https://user-images.githubusercontent.com/49766065/60828110-7436df00-a166-11e9-94e6-a5c7831ad89e.PNG)
+![OpenUProje](https://user-images.githubusercontent.com/49766065/61009792-c58ecc00-a328-11e9-8269-b2f97720ca55.PNG)
 
 ### With the project now open, Look at the Content Browser window and click the Contents folder. Double click on the file named GardenOfEden
 

@@ -1,6 +1,7 @@
 # Virtual Genesis
 
 In this project, I hope to take on the book of Genesis from the bible, and recreate it as a videogame in the unreal engine.
+![GardenOfEdenAlpha](https://user-images.githubusercontent.com/49766065/61178886-3560b900-a5ac-11e9-9a7a-26f736237f7f.JPG)
 
 ## Software Requirements
 

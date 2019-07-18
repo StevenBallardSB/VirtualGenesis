@@ -34,5 +34,8 @@ This project requires Unreal Engine 4 (Unreal Engine 4.22 recommended)
 
 ## Screenshots
 
-### The forbidden tree
+### The Forbidden Tree
 ![ForbiddenTree](https://user-images.githubusercontent.com/49766065/61431313-e8e5e800-a8e1-11e9-94fd-1ddefdaf6ccc.JPG)
+
+### Eden's River
+![EdensRiver](https://user-images.githubusercontent.com/49766065/61431586-d0c29880-a8e2-11e9-9241-ad31d97998e7.JPG)

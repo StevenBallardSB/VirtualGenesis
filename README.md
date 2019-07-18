@@ -31,3 +31,8 @@ This project requires Unreal Engine 4 (Unreal Engine 4.22 recommended)
 ### When the level loads, click on the play button to play the game in the editor, or the launch button to play the game as if it were a game installed on your computer.
 
 ![LaunchGame](https://user-images.githubusercontent.com/49766065/60828603-af85dd80-a167-11e9-88f2-07649678914d.PNG)
+
+##Screenshots
+
+###The forbidden tree
+![ForbiddenTree](https://user-images.githubusercontent.com/49766065/61431313-e8e5e800-a8e1-11e9-94fd-1ddefdaf6ccc.JPG)

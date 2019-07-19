@@ -1,7 +1,7 @@
 # Virtual Genesis
 
 In this project, I hope to take on the book of Genesis from the bible, and recreate it as a videogame in the unreal engine.
-![GardenOfEdenAlpha](https://user-images.githubusercontent.com/49766065/61178886-3560b900-a5ac-11e9-9a7a-26f736237f7f.JPG)
+![GardenOfEdenBeta](https://user-images.githubusercontent.com/49766065/61502172-9ced7e80-a987-11e9-92cd-c49c7c8d2779.JPG)
 
 ## Software Requirements
 
@@ -39,3 +39,6 @@ This project requires Unreal Engine 4 (Unreal Engine 4.22 recommended)
 
 ### Eden's River
 ![EdensRiver](https://user-images.githubusercontent.com/49766065/61431586-d0c29880-a8e2-11e9-9241-ad31d97998e7.JPG)
+
+### Eden's Center
+![GardenOfEden](https://user-images.githubusercontent.com/49766065/61502014-e38ea900-a986-11e9-84bc-e98d76f5f5e3.JPG)
